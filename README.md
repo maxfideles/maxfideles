@@ -15,4 +15,5 @@
 <img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
 <img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'/>
 <img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg'/>
+<img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg'/>
 </div>
