@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning iOS Software Development
+🌱 I’m an iOS Software Developer. Have a look on some of my projects:
+
+#### [QRTap](https://github.com/maxfideles/gen-scan-qrcode)
+It's an app to create qrcodes for website, e-mail and wi-fi auto connection easily.
+
+#### [WeaTime](https://github.com/maxfideles/weatime_app)
+It resquest the location from the user then provide the current weather information.
+
+
+
 
 ##
 <div>
