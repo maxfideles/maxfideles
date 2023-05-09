@@ -3,10 +3,10 @@
 
 🌱 I’m an iOS Software Developer. Have a look on some of my Apps:
 
-#### [SunFácil](https://apps.apple.com/gb/app/sunfácil/id6448203534)- Published
+#### [SunFácil](https://apps.apple.com/gb/app/sunfácil/id6448203534) - Published
 A solar energy system simulator, where is possible to estimate the power system in any city in Brazil.
 
-#### [QRTap](https://apps.apple.com/gb/app/qrtap/id6448493011)- Published
+#### [QRTap](https://apps.apple.com/gb/app/qrtap/id6448493011) - Published
 It's an app to create qrcodes for website, e-mail and wi-fi auto connection easily.
 
 #### [WeaTime](https://github.com/maxfideles/weatime_app)
