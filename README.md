@@ -9,8 +9,6 @@ A solar energy system simulator, where is possible to estimate the power system 
 #### 📱 [QRTap](https://apps.apple.com/gb/app/qrtap/id6448493011) - Published
 It's an app to create qrcodes for website, e-mail and wi-fi auto connection easily.
 
-#### 🐾 [4Patas](https://github.com/maxfideles/4patas)
-An app for adoption and lost pets.
 
 #### ⛅ [WeaTime](https://github.com/maxfideles/weatime_app)
 It resquests the location from the user then provide the current weather information.
