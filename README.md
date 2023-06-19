@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m an iOS Software Developer. Have a look on some of my Apps:
+I’m an iOS Developer. Have a look on some of my Apps:
 
 #### ☀️ [SunFácil](https://apps.apple.com/gb/app/sunfácil/id6448203534) - Published
 A solar energy system simulator, where is possible to estimate the power system in any city in Brazil.
