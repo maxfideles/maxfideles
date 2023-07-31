@@ -1,6 +1,18 @@
 ### Hi there 👋
 
 
+#### ☀️ [SunFácil](https://apps.apple.com/gb/app/sunfácil/id6448203534) - Published
+A solar energy system simulator, where is possible to estimate the power system in any city in Brazil.
+
+#### 📱 [QRTap](https://apps.apple.com/gb/app/qrtap/id6448493011) - Published
+It's an app to create qrcodes for website, e-mail and wi-fi auto connection easily.
+
+#### 🐾 [4Patas](https://github.com/maxfideles/4patas)
+An app for adoption and lost pets.
+
+#### ⛅ [WeaTime](https://github.com/maxfideles/weatime_app)
+It resquests the location from the user then provide the current weather information.
+
 ##
 <div>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=maxfideles&show_icons=true&theme=github_dark"/>
