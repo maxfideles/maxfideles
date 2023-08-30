@@ -22,11 +22,6 @@ Monitore your network and know your IP addresses, and if your internet is workin
 #### ⛅ [WeaTime](https://github.com/maxfideles/weatime_app)
 It resquests the location from the user then provide the current weather information.
 
-##
-<div>
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=maxfideles&show_icons=true&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxfideles&layout=compact&show_icons=true&theme=github_dark"/>
-</div>
 
 ##
 <div>
