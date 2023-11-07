@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Max, a 28-year-old electrical engineer and experience over 10 years in technology. After a transformative year abroad on an international exchange program in the UK, I decided to follow a career as a software developer. I am specializing in crafting highly scalable web applications, leveraging technologies like Spring Boot and Angular, and applying advanced software architecture principles. My ultimate aspiration is to use technology to make a positive impact on people's lives
+
 
 Have a look in some of my projects:
 #### [Suneasy](https://github.com/maxfideles/suneasy-project)
