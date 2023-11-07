@@ -2,6 +2,7 @@
 
 
 Have a look in some of my projects:
+#### [Suneasy](https://github.com/maxfideles/suneasy-project)
 #### [Design Patterns in Java](https://replit.com/@MaxFideles)
 #### [CRUD in Java Collection](https://github.com/maxfideles/ebac-backend-java-specialist-max/tree/main/mod14/Projeto1)
 #### [Form Generator using Python](https://github.com/maxfideles/form_generator)
