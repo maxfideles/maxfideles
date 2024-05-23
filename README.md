@@ -6,7 +6,7 @@ I'm Max, a 29-year-old electrical engineer and experience over 10 years in techn
 Have a look in some of my projects:
 #### [SunFácil](https://sunfacil.com)
 #### [Chi Voto](https://chivoto.eu)
-#### [Wjr Turismo]([https://sunfacil.com](https://www.linkedin.com/feed/update/urn:li:activity:7175823351469228033/))
+#### [Wjr Turismo](https://www.linkedin.com/feed/update/urn:li:activity:7175823351469228033/)
 #### [Form Generator using Python](https://github.com/maxfideles/form_generator)
 
 
