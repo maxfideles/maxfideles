@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Max, a 28-year-old electrical engineer and experience over 10 years in technology. After a transformative year abroad on an international exchange program in the UK, I decided to follow a career as a software developer. I am specializing in crafting highly scalable web applications, leveraging technologies like Spring Boot and Angular, and applying advanced software architecture principles. My ultimate aspiration is to use technology to make a positive impact on people's lives
+I'm Max, a 29-year-old electrical engineer and experience over 10 years in technology. After a transformative year abroad on an international exchange program in the UK, I decided to follow a career as a software developer. I am specializing in crafting highly scalable web applications, leveraging technologies like Spring Boot and Angular, and applying advanced software architecture principles. My ultimate aspiration is to use technology to make a positive impact on people's lives
 
 
 Have a look in some of my projects:
-#### [Suneasy](https://github.com/maxfideles/suneasy-project)
-#### [Design Patterns in Java](https://replit.com/@MaxFideles)
-#### [CRUD in Java Collection](https://github.com/maxfideles/ebac-backend-java-specialist-max/tree/main/mod14/Projeto1)
+#### [SunFácil](https://sunfacil.com)
+#### [Chi Voto](https://chivoto.eu)
+#### [Wjr Turismo](https://sunfacil.com)
 #### [Form Generator using Python](https://github.com/maxfideles/form_generator)
 
 
@@ -29,10 +29,18 @@ It resquests the location from the user then provide the current weather informa
 ##
 <div>
 <img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'/>
+<img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'/> 
+<img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg'/>
 <img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
 <img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg'/>
+<img width="40"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img width="40"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg'/>
-<img width="40"height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg'/>
+<img width="40"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img width="40"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img width="40"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />    
+<img width="40"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />          
+<img width="40"height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />
 </div>
 
 ##
